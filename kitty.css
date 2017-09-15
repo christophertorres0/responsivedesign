@@ -1,0 +1,40 @@
+/* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
+
+.hidden {
+	text-align:center:
+}
+
+
+	
+@media only screen and (min-width: 1400px) {
+   img {
+	content:url(images/kitten-large.png);
+    }
+	body{
+	background-image:url(https://media.tenor.com/images/9b907c7333ed7fdbdadf2074c467af3b/tenor.gif);
+}
+}
+
+@media only screen and (max-width: 1399px) {
+   img {
+	content:url(images/kitten-medium.png);
+    }
+	body{
+		background-image:url(https://memeguy.com/photos/thumbs/mrw-i-realize-that-mr-krabs-is-selfish-because-he-is-a-shellfish-35999.gif);
+}
+}
+
+@media only screen and (max-width: 1000px) {
+   img {
+	content:url(images/kitten-small.png);
+    }
+	body{
+		background-image:url(https://media.giphy.com/media/o8EydIusGNFSM/giphy.gif);
+	}
+}
+
+@media only screen and (max-width: 999px) {
+    img{
+	content:url(images/kittyloaf.gif);
+    }
+}
