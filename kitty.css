@@ -8,7 +8,7 @@
 	
 @media only screen and (min-width: 1400px) {
    .reg{
-	content:url(https://user-images.githubusercontent.com/31553679/30504796-a59ad942-9a25-11e7-9a02-036172ccbb5c.png);
+	content:url(images/kitten-large.png);
     }
 	body{
 	background-image:url(https://media.tenor.com/images/9b907c7333ed7fdbdadf2074c467af3b/tenor.gif);
@@ -17,7 +17,7 @@
 
 @media only screen and (max-width: 1399px) {
    .reg{
-	content:url(https://user-images.githubusercontent.com/31553679/30504790-9ee36d62-9a25-11e7-991f-bf903d490944.png);
+	content:url(images/kitten-medium.png);
     }
 	body{
 		background-image:url(https://memeguy.com/photos/thumbs/mrw-i-realize-that-mr-krabs-is-selfish-because-he-is-a-shellfish-35999.gif);
@@ -26,7 +26,7 @@
 
 @media only screen and (max-width: 1000px) {
    .reg {
-	content:url(https://user-images.githubusercontent.com/31553679/30504783-952ce118-9a25-11e7-8c4c-88a3a9c10e10.png);
+	content:url(images/kitten-small.png);
     }
 	body{
 		background-image:url(https://media.giphy.com/media/o8EydIusGNFSM/giphy.gif);
@@ -35,7 +35,7 @@
 
 @media only screen and (max-width: 999px) {
     .reg{
-	content:url(https://user-images.githubusercontent.com/31553679/30504777-8c2ff9d8-9a25-11e7-8b55-ee065441c480.gif);
+	content:url(images/kittyloaf.gif);
     }
 	body{
 		background-color:green;
@@ -45,9 +45,8 @@
 
 @media only screen and (max-width: 999px) {
     .popup{
-	content:url(https://user-images.githubusercontent.com/31553679/30504783-952ce118-9a25-11e7-8c4c-88a3a9c10e10.png);
+	content:url(images/kitten-small.png);
     }
 	
 }
-
 
